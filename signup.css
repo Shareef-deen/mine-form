@@ -137,6 +137,17 @@ input[type="submit"]:active {
     padding: 10px;
 }
 
-
+  .bg {
+    /* The image used */
+    background-image: url("images/unsplash.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
 

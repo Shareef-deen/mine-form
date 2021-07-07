@@ -25,7 +25,7 @@
   <style>
    
   </style>
-  <body>
+  <body class="bg">
 <div id="login-box">
   <div class="left">
     <h1>Register</h1>

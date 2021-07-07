@@ -24,7 +24,7 @@ if ( $query ) {
   <style>
    
   </style>
-  <body>
+  <body class="bg">
 <div id="login-box">
   <div class="left">
     <h1>Sign in</h1>

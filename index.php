@@ -27,7 +27,7 @@
   </style>
   <body class="bg">
 <div id="login-box">
-  <div class="left" style="background-color : black">
+  <div class="left" style="background-color : rgba(0, 0, 0, 0.3)">
     <h1>Register</h1>
 	<form method="post" action="index.php" class="signin-form">
     

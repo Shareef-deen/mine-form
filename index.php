@@ -29,7 +29,7 @@
 <div id="login-box">
   <div class="left">
     <h1>Register</h1>
-	<form method="post" action="signup.php" class="signin-form">
+	<form method="post" action="index.php" class="signin-form">
     
     <input type="text" name="username" placeholder="Username" /> <br>
     <input type="text" id="email" name="email" placeholder="E-mail" /><br>
@@ -38,7 +38,7 @@
     <input id="signmeup" type="submit" name="submit"  value="Sign me up" />
 	</form>
     <div  id="button">
-      <a  href="signin.php" type="button" style="color:white">Click here to sign in</a>
+      <a  href="login.php" type="button" style="color:white">Click here to sign in</a>
     </div>
 
 

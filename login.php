@@ -34,7 +34,7 @@ if ( $query ) {
     <input type="password" id="password" name="password" placeholder="Password" /><br>
 	<input id="signmeup" type="submit" name="submit"  value="Login" />
 	 <div  id="button">
-      <a  href="web_login_form.html" type="button" style="color:white">Register here   </a>
+      <a  href="index.php" type="button" style="color:white">Register here   </a>
     </div>
 	</form>
    

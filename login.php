@@ -26,7 +26,7 @@ if ( $query ) {
   </style>
   <body class="bg">
 <div id="login-box">
-  <div class="left" style="background-color : black">
+  <div class="left" style="background-color : rgba(0, 0, 0, 0.3)">
     <h1>Sign in</h1>
     
     <form method="post" action="login.php" class="signin-form">
